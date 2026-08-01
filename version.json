@@ -1,11 +1,7 @@
 {
-    "version": "1.0.4",
-    "min_version": "1.0.4",
-    "force_update": true,
-    "disable": false,
-    "lanzou_url": "",
-    "changelog": "初始版本发布",
-    "test_mode": false,
-    "sha256": "",
-    "timestamp": "2025-01-01T00:00:00Z"
+  "latest_version": "1.4",
+  "download_url": "https://github.com/lengxi233/a-upate/raw/main/iQOO_Tool_v1.4.exe",
+  "message": "v1.4 更新内容：\n• 修复部分设备 LD_PRELOAD 兼容性问题\n• 优化多镜像竞争加载逻辑\n• 提升 USB 连接稳定性检测",
+  "force_update": false,
+  "sha256": ""
 }
